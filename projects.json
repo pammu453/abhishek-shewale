@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
+    "image": "portfolio1",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "PIXP Studio’s",
+    "desc": "Designed and developed PIXP Studio's website, showcasing VFX, 3D/2D Animation, and Post-Production services with a dynamic UI, smooth navigation, and optimized performance.",
+    "image": "portfolio2",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Earthmover Equipment Management System",
+    "desc": "Developed a multi-page website for Groundcare, highlighting key agreements like LSA, SLA, and TQMA. Designed a responsive UI for seamless user interaction. Completed as my first major MCA project, sponsored by Tayashete Industry, Kolhapur, earning ₹5,000 and gaining real-world web development experience.",
+    "image": "portfolio3",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "A to Z Trading Company (Kolhapur)",
+    "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
+    "image": "portfolio4",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Jagtap Nursery's Garden Center",
+    "desc": "Built a scalable e-commerce platform for 8000+ products with a high-performance UI, smooth navigation, and fast loading. Integrated APIs and third-party tools using Tailwind CSS and Flowbite React for an enhanced shopping experience.",
+    "image": "portfolio5",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "SC CLUB Gym Management System (Kolhapur)",
+    "desc": "Developed a multi-page system with dynamic forms and an SQL database for efficient gym management. Built using HTML, CSS, Bootstrap, JavaScript, PHP, and XAMPP server..",
+    "image": "portfolio6",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Jagtap Nursery (Wholesale)",
+    "desc": "Developed a scalable multi-page website with intuitive navigation, secure buyer login, and order management. Ensured a responsive, high-performance interface for seamless bulk product browsing.",
+    "image": "portfolio7",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "MyFlorist",
+    "desc": "Integrated pincode-based delivery, dynamic product variants, and a seamless checkout process for an intuitive and engaging shopping experience..",
+    "image": "portfolio8",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Odoo eLearning App",
+    "desc": "Scalable multi-page website with intuitive navigation, secure login, and seamless bulk product browsing",
+    "image": "portfolio12",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
